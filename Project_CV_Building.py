@@ -36,6 +36,7 @@ with col1:
     st.title("Nguyen Tin Tin Do")
     st.write("(862) 579-6543 | ndo1@drew.edu")
     st.write("[LinkedIn](https://linkedin.com/in/nguyen-tin-tin-do) | [GitHub](https://github.com/NguyenTin)")
+    st.write("[LinkedIn](https://github.com/NguyenTin2026) | [GitHub](https://github.com/NguyenTin)")
 with col2:
     st.markdown("""
 **Computer Science major with a Data Science minor, specializing in Artificial Intelligence and Deep Learning.**  
