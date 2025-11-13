@@ -6,6 +6,8 @@ from PIL import Image
 from pdf2image import convert_from_bytes
 from langdetect import detect
 
+
+
 # ===============================
 # ⚙️ Cấu hình Tesseract OCR
 # ===============================
