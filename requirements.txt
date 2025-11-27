@@ -1,0 +1,20 @@
+# Streamlit cho UI
+streamlit>=1.25.0
+
+# YOLOv8
+ultralytics>=8.0.0
+
+# OpenCV & xử lý ảnh/video
+opencv-python>=4.8.1
+numpy>=1.26.0
+Pillow>=10.1.0
+
+# Pandas để thống kê
+pandas>=2.1.0
+
+# Threading & xử lý tạm file (có sẵn trong Python, không cần pip)
+# tempfile, os
+
+# Tùy chọn cho video/audio nâng cao
+# pydub>=0.25.1   # nếu muốn xử lý audio
+# librosa>=0.10.0  # nếu mở rộng sang audio analysis
