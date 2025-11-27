@@ -1,0 +1,61 @@
+# =========================
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Build / distribution
+dist/
+build/
+*.egg
+*.egg-info/
+
+# =========================
+# Virtual environment
+venv/
+.venv/
+.env
+.env.*
+
+# =========================
+# Data files (cá nhân / nhạy cảm)
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.h5
+*.db
+*.sqlite
+*.key
+*.pem
+*.mp4
+*.jpg
+*.png
+
+# =========================
+# Streamlit secrets
+.secrets.toml
+
+# =========================
+# Logs
+*.log
+
+# =========================
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional: exclude large media folder
+media/
+models/
+data/
