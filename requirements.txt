@@ -1,20 +1,61 @@
-# Streamlit cho UI
+# ============================
+# Streamlit (UI)
+# ============================
 streamlit>=1.25.0
 
-# YOLOv8
-ultralytics>=8.0.0
-
-# OpenCV & xử lý ảnh/video
+# ============================
+# Computer Vision (YOLO, OpenCV)
+# ============================
+ultralytics>=8.1.0
 opencv-python>=4.8.1
-numpy>=1.26.0
 Pillow>=10.1.0
 
-# Pandas để thống kê
+# ============================
+# Data Processing
+# ============================
+numpy>=1.27.0
 pandas>=2.1.0
 
-# Threading & xử lý tạm file (có sẵn trong Python, không cần pip)
-# tempfile, os
+# ============================
+# Visualization
+# ============================
+matplotlib>=3.8.0
+seaborn>=0.12.2
+plotly>=5.20.0
 
-# Tùy chọn cho video/audio nâng cao
-# pydub>=0.25.1   # nếu muốn xử lý audio
-# librosa>=0.10.0  # nếu mở rộng sang audio analysis
+# ============================
+# Machine Learning
+# ============================
+scikit-learn>=1.3.0
+xgboost>=1.7.7
+joblib>=1.3.2
+
+# ============================
+# NLP & Translation
+# ============================
+textblob>=0.17.1
+googletrans==4.0.0-rc1
+langdetect>=1.0.9
+
+# ============================
+# OCR
+# ============================
+pytesseract>=0.3.11
+pdf2image>=1.16.3
+
+# ============================
+# Encoding Detection
+# ============================
+chardet>=5.2.0
+
+# ============================
+# Optional Audio/Video Tools
+# ============================
+# pydub>=0.25.1
+# librosa>=0.10.0
+
+# ============================
+# Notes
+# - poppler-utils cần cài trong OS (để OCR PDF)
+# - tempfile, os là built-in (không cần pip)
+# ============================
