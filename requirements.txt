@@ -1,7 +1,7 @@
 # ============================
 # Streamlit (UI)
 # ============================
-streamlit>=1.25.0
+streamlit>=1.30.0
 
 # ============================
 # X-Ray Disease Detection (Deep Learning)
@@ -17,10 +17,16 @@ opencv-python>=4.8.1
 Pillow>=10.1.0
 
 # ============================
-# Data Processing
+# Finance / Data
 # ============================
-numpy>=1.27.0
+yfinance>=0.2.29
 pandas>=2.1.0
+numpy>=1.27.5
+
+# ============================
+# Forecasting
+# ============================
+prophet>=1.1.4  # Note: pip install prophet
 
 # ============================
 # Visualization
