@@ -3,8 +3,6 @@
 # 🚀 Streamlit Tutorial – Full AI & Data App Collection  
 ### A curated collection of **hands-on Streamlit projects** for Machine Learning, Computer Vision, NLP & Data Science.
 
-<img src="https://raw.githubusercontent.com/NguyenTin2026/branding/main/streamlit-banner.png" width="100%" />
-
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
